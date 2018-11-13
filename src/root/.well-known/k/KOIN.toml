@@ -1,0 +1,21 @@
+# (C) Various $[Authors].
+# (C) ://trollboxoin.com/
+# (C) ://2by.me/ Authors.
+# (C) 2016 luser::itsN1X.
+# DayNum8089 Z1542124317.
+# This was and is public.
+# +
+# /
+# BEGINNing TOMMY FiLLeT$
+FEDERATION_SERVER="https://old.biston.web.id/"
+AUTH_SERVER="https://api.stellar.org/auth"
+SIGNING_KEY="GDFUVIEI6OUHUENBGZZFEKF5TVUH4LYQ2JJLU22XMRYOJ5SPP5UXKOIN"
+[[CURRENCIES]]
+code = "KOIN"
+display_decimals = 7
+conditions = "biston koin project stellar."
+desc = "biston koin project stellar."
+image = "https://biston.web.id/koin.jpg"
+issuer = "GDFUVIEI6OUHUENBGZZFEKF5TVUH4LYQ2JJLU22XMRYOJ5SPP5UXKOIN"
+name = "Stellar Koin"
+host="https://biston.web.id"
