@@ -1,0 +1,18 @@
+# (C) Various $[Authors].
+# (C) ://trollboxoin.com/
+# (C) ://2by.me/ Authors.
+# (C) 2016 luser::itsN1X.
+# DayNum8089 Z1542124317.
+# This was and is public.
+# +
+# /
+# BEGINNing TOMMY FiLLeT
+[[CURRENCIES]]
+code="TROLL"
+name="Trollbox Coin"
+max_number=50000000
+issuer="GDJ2JEYYFBJP7WSKE7CF36JUKPTH2CQMIGEETFOUQEVMHZECSDFKT246"
+desc="The original coin of the Trollbox Community"
+conditions="Receive free tokens just by setting up a trustline."
+display_decimals=7
+image="https://i.imgur.com/hvRgRZa.png"
