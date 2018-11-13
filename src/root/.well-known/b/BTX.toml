@@ -1,0 +1,42 @@
+# (C) Various $[Authors].
+# (C) ://trollboxoin.com/
+# (C) ://2by.me/ Authors.
+# (C) 2016 luser::itsN1X.
+# DayNum8089 Z1542124317.
+# This was and is public.
+# +
+# /
+# BEGINNing TOMMY FiLLeT$
+#
+#
+# Sample stellar.toml
+#
+#   The endpoint which clients should query to resolve stellar addresses
+#   for users on your domain.
+FEDERATION_SERVER="https://stellarid.io/federation/"
+#
+# asset with meta info
+[[CURRENCIES]]
+code="BTX"
+issuer="GBBAMI2WU6WJHDL3CQKT4LPXUC76WCEMQJMJIVQGL2G5IKJ2JHEVHG3G"
+display_decimals=2
+name="Bitcoin X"
+desc=""
+conditions="21 million Total Supply"
+image="https://bitx.tk/img/BTX_logo_original.png"
+#
+# optional extra information for humans
+# Useful place for anchors to detail various policies and required info
+#
+###################################
+# Required compliance fields:
+#      name=<recipient name>
+#      addr=<recipient address>
+# Federation Format:
+#        <phone number>*anchor.com
+#        Forwarding supported by sending to: forward*anchor.com
+#           forward_type=bank_account
+#           swift=<swift code of receiving bank>
+#           acct=<recipient account number at receiving bank>
+# Minimum Amount Forward: $2 USD
+# Maximum Amount Forward: $10000 USD
